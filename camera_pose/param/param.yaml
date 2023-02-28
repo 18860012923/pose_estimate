@@ -1,0 +1,243 @@
+signpoints:
+- pose:
+    position:
+      x: -1.31
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: -1.31
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 8.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 8.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 18.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 18.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 28.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 28.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 38.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 38.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 48.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 48.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 58.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 58.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 68.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 68.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 78.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 78.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 88.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 88.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 98.69
+      y: -1.92
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+
+- pose:
+    position:
+      x: 98.69
+      y: 1.92
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: 0
+      w: 1
+#x,y表示位置,z表示离地高度

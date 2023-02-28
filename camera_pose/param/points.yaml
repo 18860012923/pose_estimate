@@ -1,0 +1,38 @@
+points:
+- pose:
+    position:
+      x: 0.442
+      z: -0.008
+
+- pose:
+    position:
+      x: 0.240
+      z: -0.008
+
+- pose:
+    position:
+      x: 0.240
+      z: -0.210
+
+- pose:
+    position:
+      x: 0.442
+      z: -0.210
+
+- pose:
+    position:
+      x: 0.170
+      z: -0.07
+
+- pose:
+    position:
+      x: 0.170
+      z: -0.15
+
+- pose:
+    position:
+      x: 0.07
+      z: -0.11
+
+#前四个点是方形，后三个点是箭头
+#x方向与z方向构成整个竖直的平面

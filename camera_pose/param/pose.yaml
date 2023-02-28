@@ -1,0 +1,34 @@
+signpoints:
+- pose:
+    position:
+      x: -0.31
+      y: -0.022
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: -0.0447
+      w: 0.999
+
+- pose:
+    position:
+      x: 0.304
+      y: -0.017
+      z: 0.51
+    orientation:
+      x: 0
+      y: 0
+      z: -0.0632
+      w: 0.998
+
+- pose:
+    position:
+      x: 0.32
+      y: -0.023
+      z: 0.52
+    orientation:
+      x: 0
+      y: 0
+      z: -0.011
+      w: 0.9999
+#x,y表示位置,z表示离地高度

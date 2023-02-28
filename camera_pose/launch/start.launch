@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+ <!-- <node pkg="tf2_ros" name="base_link_to_camera_link" type="static_transform_publisher" 
+                args="-1 -5 2 40 10 50 base_link camera_link"/> -->
+ <node type="pose_estimate_node" name="pose_estimate_node" pkg="camera_pose" output="screen" />
+</launch>
